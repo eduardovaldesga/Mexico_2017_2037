@@ -11,7 +11,7 @@ The installed capacity of each region in 2016 appears in the file `ExiCap.txt` a
 
 <p align="center">
 <div id="fig1" style="width:300px; height=200px">
-<img src="https://github.com/CYBERneticSYNergic/Mexico_2017_2037/ExiLin.png" height="100%" width="100%"/><br>
+<img src="https://github.com/eduardovaldesga/Mexico_2017_2037/blob/patch-2/ExiLin.png" height="100%" width="100%"/><br>
 <b>Figure 1.</b> Generation and transmission capacity for each region and transmission line respectively.  
 </div>
 </p>
